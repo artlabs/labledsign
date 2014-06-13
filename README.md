@@ -14,3 +14,6 @@ This is a slightly modifed version of strandtest.ino from AdaFruit:  https://git
 2. Connect the NeoPixel to ground and power.  Power requirements here: [AdaFruit NeoPixel](http://www.adafruit.com/products/1138) 
 3. Connect NeoPixel to PIN 3 of the Arduino.  Connect NeoPixel ground to the ground of the Arduino.
 4. Upload labledsign.ino to the board and run it.
+
+
+![Labs Sign](sign_preview.jpg)
